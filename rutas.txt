@@ -1,0 +1,11 @@
+"Pueblo Paleta", "Aldea Azalea", 100
+"Aldea Azalea", "Ciudad Safiro", 150
+"Pueblo Paleta", "Ciudad Safiro", 800
+"Ciudad Lavanda", "Aldea Fuego", 300
+"Aldea Fuego", "Ciudad Celeste", 250
+"Ciudad Celeste", "Pueblo Lavanda", 400
+"Pueblo Lavanda", "Aldea Plateada", 600
+"Aldea Plateada", "Ciudad Plateada", 200
+"Ciudad Plateada", "Ciudad Azafrán", 700
+"Ciudad Azafrán", "Pueblo Lavanda", 550
+"Ciudad Azafrán", "Ciudad Fucsia", 300
